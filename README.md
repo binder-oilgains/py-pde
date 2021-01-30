@@ -21,7 +21,7 @@ dynamical systems in physics. The focus of the package lies on easy usage to
 explore the behavior of PDEs. However, core computations can be compiled
 transparently using numba for speed.
 
-[Try it out online!](https://mybinder.org/v2/gh/zwicker-group/py-pde/master?filepath=examples%2Fjupyter)
+[Try it out online!](https://mybinder.org/v2/gh/binder-oilgains/py-pde/main?filepath=examples%2Fjupyter)
 
 
 Installation
