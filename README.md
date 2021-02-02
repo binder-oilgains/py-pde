@@ -1,10 +1,13 @@
 # py-pde
 
+*   `mybinder` : [Try it out online!](https://mybinder.org/v2/gh/binder-oilgains/py-pde/main?filepath=examples%2Fjupyter)
+
 [![PyPI version](https://badge.fury.io/py/py-pde.svg)](https://badge.fury.io/py/py-pde)
 [![Conda Version](https://img.shields.io/conda/vn/conda-forge/py-pde.svg)](https://anaconda.org/conda-forge/py-pde)
 [![Documentation Status](https://readthedocs.org/projects/py-pde/badge/?version=latest)](https://py-pde.readthedocs.io/en/latest/?badge=latest)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.02158/status.svg)](https://doi.org/10.21105/joss.02158)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/py-pde/main?filepath=examples%2Fjupyter)
+
+*   `mybinder`: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/py-pde/main?filepath=examples%2Fjupyter)
 
 [![Build Status](https://travis-ci.org/zwicker-group/py-pde.svg?branch=master)](https://travis-ci.org/zwicker-group/py-pde)
 [![codecov](https://codecov.io/gh/zwicker-group/py-pde/branch/master/graph/badge.svg)](https://codecov.io/gh/zwicker-group/py-pde)
@@ -21,7 +24,7 @@ dynamical systems in physics. The focus of the package lies on easy usage to
 explore the behavior of PDEs. However, core computations can be compiled
 transparently using numba for speed.
 
-[Try it out online!](https://mybinder.org/v2/gh/binder-oilgains/py-pde/main?filepath=examples%2Fjupyter)
+
 
 
 Installation
@@ -87,4 +90,4 @@ More information
 * [Full documentation on readthedocs](https://py-pde.readthedocs.io/)
   or as [a single PDF file](https://py-pde.readthedocs.io/_/downloads/en/latest/pdf/).
 * The [paper published in the Journal of Open Source Software](https://doi.org/10.21105/joss.02158)
- 
+
